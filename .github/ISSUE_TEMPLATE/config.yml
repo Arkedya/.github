@@ -1,0 +1,11 @@
+# See https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/configuring-issue-templates-for-your-repository#configuring-the-template-chooser.
+
+blank_issues_enabled: false
+contact_links:
+    - name: Question
+      url: https://github.com/orgs/Arkedya/discussions/new?category=help
+      about: Ask your questions through Github discussions.
+
+    - name: Discussion
+      url: https://github.com/orgs/Arkedya/discussions/new?category=general
+      about: Chat through Github discussions.

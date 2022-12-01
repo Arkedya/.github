@@ -1,0 +1,28 @@
+# See https://github.com/github/issue-labeler#create-githublabeleryml.
+
+'Type: Accessibility':
+    - '/\[x\]\s+accessibility/i'
+
+'Type: Breaking Change':
+    - '/\[x\]\s+breaking\s+change/i'
+
+'Type: Bug':
+    - '/\[x\]\s+bug/i'
+
+'Type: Documentation':
+    - '/\[x\]\s+documentation/i'
+
+'Type: Enhancement':
+    - '/\[x\]\s+enhancement/i'
+
+'Type: Feature Request':
+    - '/\[x\]\s+feature\s+request/i'
+
+'Type: Maintenance':
+    - '/\[x\]\s+maintenance/i'
+
+'Type: Refactoring':
+    - '/\[x\]\s+refactoring/i'
+
+'Type: Security':
+    - '/\[x\]\s+security/i'

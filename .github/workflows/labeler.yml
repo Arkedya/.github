@@ -11,6 +11,6 @@ jobs:
             - uses: github/issue-labeler@v2.5
               with:
                   repo-token: '${{ secrets.GITHUB_TOKEN }}'
-                  configuration-path: .github/workflow-resources/labeler.yml
+                  configuration-path: .github/workflow_resources/labeler.yml
                   enable-versioned-regex: 0
                   include-title: 0

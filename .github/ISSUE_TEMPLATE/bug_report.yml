@@ -44,10 +44,10 @@ body:
           required: true
 
     - type: dropdown
-      id: browser
+      id: web-browser
       attributes:
-          label: Browser(s)
-          description: Enter the affected browsers(s).
+          label: Web browser(s)
+          description: Enter the affected web browsers(s).
           multiple: true
           options:
               - Google Chrome
